@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+    color: darkblue;
+    text-align: justify;
+    width: 20px;
+    height: auto;
+}
